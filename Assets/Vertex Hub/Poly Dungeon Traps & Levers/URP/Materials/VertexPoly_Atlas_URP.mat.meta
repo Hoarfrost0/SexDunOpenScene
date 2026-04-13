@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 396556e9bd6d1b24dbfd37f616603633
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318357
+  packageName: Low Poly Dungeon Traps & Levers
+  packageVersion: 1.0
+  assetPath: Assets/Vertex Hub/Poly Dungeon Traps & Levers/URP/Materials/VertexPoly_Atlas_URP.mat
+  uploadId: 753038

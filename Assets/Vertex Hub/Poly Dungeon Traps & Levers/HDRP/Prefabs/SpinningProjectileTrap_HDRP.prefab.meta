@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 200263e9e07a4364992a6295d4cec8c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318357
+  packageName: Low Poly Dungeon Traps & Levers
+  packageVersion: 1.0
+  assetPath: Assets/Vertex Hub/Poly Dungeon Traps & Levers/HDRP/Prefabs/SpinningProjectileTrap_HDRP.prefab
+  uploadId: 753038
